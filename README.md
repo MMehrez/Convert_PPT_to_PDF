@@ -1,6 +1,8 @@
 # Convert_PPT_to_PDF
 This repository has the supporting material for a youtube tutorial on converting an (animated) Powerpoint presentation into an (animated) PDF file. The video link is here:
-https://www.youtube.com/watch?v=K-o03RfaWDc&feature=youtu.be
+
+Part 1: https://www.youtube.com/watch?v=K-o03RfaWDc&feature=youtu.be
+Part 2: https://www.youtube.com/watch?v=xhWY_VFrsws
 
 The used codes can be found here
 
